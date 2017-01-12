@@ -1,0 +1,11 @@
+{
+    "name": "krasavchegUa/foo-bundle",
+    "type": "symfony-bundle",
+    "homepage": "https://github.com/krasavchegUa/FooBundle",
+    "authors": [
+        {
+            "name": "Volodymyr Rudak",
+            "email": "krasavcheg.ua@gmail.com"
+        }
+    ]
+}
